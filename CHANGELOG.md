@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.1.4
+- Update to crystal 1.0.0
+
 ## 0.1.3
 - Code formatting and minor improvements to the project structure
 
